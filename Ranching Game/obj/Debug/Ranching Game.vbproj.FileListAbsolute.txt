@@ -1,0 +1,56 @@
+C:\Documents and Settings\cs-803\Local Settings\Application Data\Temporary Projects\Ranching Game\bin\Debug\Ranching Game.exe
+C:\Documents and Settings\cs-803\Local Settings\Application Data\Temporary Projects\Ranching Game\bin\Debug\Ranching Game.pdb
+C:\Documents and Settings\cs-803\Local Settings\Application Data\Temporary Projects\Ranching Game\bin\Debug\Ranching Game.xml
+C:\Documents and Settings\cs-803\Local Settings\Application Data\Temporary Projects\Ranching Game\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cs-803\Local Settings\Application Data\Temporary Projects\Ranching Game\obj\Debug\Ranching_Game.AnimalShop.resources
+C:\Documents and Settings\cs-803\Local Settings\Application Data\Temporary Projects\Ranching Game\obj\Debug\Ranching_Game.Barn.resources
+C:\Documents and Settings\cs-803\Local Settings\Application Data\Temporary Projects\Ranching Game\obj\Debug\Ranching_Game.Coop.resources
+C:\Documents and Settings\cs-803\Local Settings\Application Data\Temporary Projects\Ranching Game\obj\Debug\Ranching_Game.Field.resources
+C:\Documents and Settings\cs-803\Local Settings\Application Data\Temporary Projects\Ranching Game\obj\Debug\Ranching_Game.House.resources
+C:\Documents and Settings\cs-803\Local Settings\Application Data\Temporary Projects\Ranching Game\obj\Debug\Ranching_Game.Resources.resources
+C:\Documents and Settings\cs-803\Local Settings\Application Data\Temporary Projects\Ranching Game\obj\Debug\Ranching_Game.Town.resources
+C:\Documents and Settings\cs-803\Local Settings\Application Data\Temporary Projects\Ranching Game\obj\Debug\Ranching Game.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cs-803\Local Settings\Application Data\Temporary Projects\Ranching Game\obj\Debug\Ranching Game.exe
+C:\Documents and Settings\cs-803\Local Settings\Application Data\Temporary Projects\Ranching Game\obj\Debug\Ranching Game.xml
+C:\Documents and Settings\cs-803\Local Settings\Application Data\Temporary Projects\Ranching Game\obj\Debug\Ranching Game.pdb
+F:\Ranching Game\Ranching Game\obj\Debug\Ranching Game.exe
+F:\Ranching Game\Ranching Game\obj\Debug\Ranching Game.xml
+F:\Ranching Game\Ranching Game\obj\Debug\Ranching Game.pdb
+F:\Ranching Game\Ranching Game\bin\Debug\Ranching Game.exe
+F:\Ranching Game\Ranching Game\bin\Debug\Ranching Game.pdb
+F:\Ranching Game\Ranching Game\bin\Debug\Ranching Game.xml
+F:\Ranching Game\Ranching Game\obj\Debug\ResolveAssemblyReference.cache
+F:\Ranching Game\Ranching Game\obj\Debug\Ranching_Game.AnimalShop.resources
+F:\Ranching Game\Ranching Game\obj\Debug\Ranching_Game.Barn.resources
+F:\Ranching Game\Ranching Game\obj\Debug\Ranching_Game.Coop.resources
+F:\Ranching Game\Ranching Game\obj\Debug\Ranching_Game.Field.resources
+F:\Ranching Game\Ranching Game\obj\Debug\Ranching_Game.House.resources
+F:\Ranching Game\Ranching Game\obj\Debug\Ranching_Game.Resources.resources
+F:\Ranching Game\Ranching Game\obj\Debug\Ranching_Game.Town.resources
+F:\Ranching Game\Ranching Game\obj\Debug\Ranching Game.vbproj.GenerateResource.Cache
+H:\Ranching Game\Ranching Game\obj\Debug\Ranching Game.exe
+H:\Ranching Game\Ranching Game\obj\Debug\Ranching Game.xml
+H:\Ranching Game\Ranching Game\obj\Debug\Ranching Game.pdb
+H:\Ranching Game\Ranching Game\bin\Debug\Ranching Game.exe
+H:\Ranching Game\Ranching Game\bin\Debug\Ranching Game.pdb
+H:\Ranching Game\Ranching Game\bin\Debug\Ranching Game.xml
+H:\Ranching Game\Ranching Game\obj\Debug\ResolveAssemblyReference.cache
+H:\Ranching Game\Ranching Game\obj\Debug\Ranching_Game.AnimalShop.resources
+H:\Ranching Game\Ranching Game\obj\Debug\Ranching_Game.Barn.resources
+H:\Ranching Game\Ranching Game\obj\Debug\Ranching_Game.Coop.resources
+H:\Ranching Game\Ranching Game\obj\Debug\Ranching_Game.Field.resources
+H:\Ranching Game\Ranching Game\obj\Debug\Ranching_Game.House.resources
+H:\Ranching Game\Ranching Game\obj\Debug\Ranching_Game.Resources.resources
+H:\Ranching Game\Ranching Game\obj\Debug\Ranching_Game.Town.resources
+H:\Ranching Game\Ranching Game\obj\Debug\Ranching Game.vbproj.GenerateResource.Cache
+D:\coding\programming\Ranching Game\Ranching Game\obj\Debug\Ranching Game.exe
+D:\coding\programming\Ranching Game\Ranching Game\obj\Debug\Ranching Game.xml
+D:\coding\programming\Ranching Game\Ranching Game\obj\Debug\Ranching Game.pdb
+D:\coding\programming\Ranching Game\Ranching Game\obj\Debug\Ranching_Game.AnimalShop.resources
+D:\coding\programming\Ranching Game\Ranching Game\obj\Debug\Ranching_Game.Barn.resources
+D:\coding\programming\Ranching Game\Ranching Game\obj\Debug\Ranching_Game.Coop.resources
+D:\coding\programming\Ranching Game\Ranching Game\obj\Debug\Ranching_Game.Field.resources
+D:\coding\programming\Ranching Game\Ranching Game\obj\Debug\Ranching_Game.House.resources
+D:\coding\programming\Ranching Game\Ranching Game\obj\Debug\Ranching_Game.Resources.resources
+D:\coding\programming\Ranching Game\Ranching Game\obj\Debug\Ranching_Game.Town.resources
+D:\coding\programming\Ranching Game\Ranching Game\obj\Debug\Ranching Game.vbproj.GenerateResource.Cache
